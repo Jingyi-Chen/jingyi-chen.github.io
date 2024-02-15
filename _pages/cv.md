@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+
+
 Education
 ======
 * Ph.D., State University of New York at Stony Brook, NY, USA 
