@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Jingyi Chen"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "Chen.jpg"
+  bio              : "Earth Scientist at Pacific Northwest National Laboratory"
   pronouns         : # example: "she/her"
-  location         : "Location"
+  location         : #"Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"         # Update with the correct link to your profile
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=MrkJP-4AAAAJ&hl=en"         # Update with the correct link to your profile
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   goodreads        :
   keybase          :
@@ -105,13 +105,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-6347-5677"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -178,18 +178,25 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  research:
+    output: true
+    permalink: /:collection/:path/
+  codes:
+    output: true
+    permalink: /:collection/:path/
+  group:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  teaching:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  
+  #talks:
+  #  output: true
+  #  permalink: /:collection/:path/
 
 
 # Defaults
@@ -239,14 +246,41 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _research
   - scope:
       path: ""
-      type: talks
+      type: research
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comment: true
+  # _codes
+  - scope:
+      path: ""
+      type: codes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _group
+  - scope:
+      path: ""
+      type: group
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:
