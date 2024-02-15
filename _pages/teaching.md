@@ -13,11 +13,14 @@ solving problems, and communicating effectively. To start, I am interested in le
 Mentoree
 -
 **Graduates**
+
 (to be added later)
 
 **Undergraduates**
-Yiqi Chen (NUIST student, co-mentoring)
-Travis Hahn (SBU student, co-mentoring)
+
+2024: Travis Hahn (SBU student, co-mentoring under US DOE 3-month mentoring program)
+
+2023-2024: Yiqi Chen (NUIST student, co-mentoring for her undergraduate thesis)
 
 Courses
 -
