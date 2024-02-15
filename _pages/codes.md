@@ -5,7 +5,7 @@ permalink: /codes/
 author_profile: true
 ---
 
-Cloud Parcl Model
+Cloud Parcel Model
 ---
 This cloud parcel model simulates the updraft cooling of a cloud parcel with entrainment-mixing and entrained aerosols in Fortran 95. 
 The initial development of this model was supported by the U.S. Department of Energy’s Earth System Modeling program via the Fast-physics System Testbed and Research project and Atmospheric System Research program through Stony Brook University and Brookhaven National Laboratory. 
