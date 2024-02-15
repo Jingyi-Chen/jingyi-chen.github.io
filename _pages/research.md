@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p align="center">
-  <img src="/files/sub_grid_scale.png" width="600" height="450">
+  <img src="/files/sub_grid_scale.png" width="500">
 </p>
 
 Cloud processes occur across a wide spectrum of scales, from sub-micrometer dimensions (Cloud Condensation Nuclei) to thousands of kilometers (cloud systems). However, current numerical models lack the capacity to explicitly address this entire range of scales. Furthermore, interactions among numerous aspects, including cloud microphysics, precipitation, moist turbulence, latent heat release, circulation, and radiation, complicate the problem. 
