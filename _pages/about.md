@@ -7,7 +7,7 @@ author_profile: true
 </p>
 **Welcome to Jingyi Chen's research group homepage!** 
 
-We are aimed at answering several grand challenging questions related to cloud evolution, land-atmosphere-cloud interactions and aerosol-cloud interactions. 
+We are focused on addressing several grand challenges related to cloud processes at the sub-grid scale. These challenges include the formation and upscale growth of shallow clouds, interactions between land, the atmospheric boundary layer, and clouds, as well as interactions between aerosols and clouds. These processes at the sub-grid level are simplified within Earth System Models (ESMs) due to their finer spatial and temporal structures (i.e., parameterization) and a lack of clear theoretical understanding. Our adventure in understanding and parameterizing sub-grid cloud processes will lead to better predictions of the Earth's energy and hydrological cycles. You can take the lead in your learning through our papers, codes, and courses.
 
 
 News
