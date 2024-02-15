@@ -7,11 +7,11 @@ main:
   - title: "Codes"
     url: /codes/
 
-  - title: "Group"
-    url: /group/
-
   - title: "Publications"
     url: /publications/
+
+  - title: "Group"
+    url: /group/
 
   - title: "Teaching"
     url: /teaching/    
