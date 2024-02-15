@@ -8,11 +8,11 @@ author_profile: true
 Below, * denotes the corresponding author.
 
 2024
--
+---
 [19] **Chen, J.***, Y. Qian\*, T. Chakraborty, and Z. Yang (2024), Complexities of urban impacts on long-term seasonal trends in a mid-sized arid city, Environmental Research Communication (accepted)
 
 2023
--
+---
 [18] **Chen, J.***, S. Hagos, H. Xiao, Z. Feng, J. Fast, C. Lu, A. Varble and J. Sun (2023), The effects of shallow cumulus cloud shape on the cloud-cloud interactions and cloud-environment mixing, Geophysical Research Letter, doi: 10.1029/2023GL106334
 
 [17] Hagos, S.*, Z. Feng, S. Tai and **J. Chen** (2023), Regional variability in the environmental controls of precipitation regimes in the tropics, Journal of Geophysical Research: Atmospheres, doi: 10.1029/2023JD038927
@@ -28,7 +28,7 @@ Below, * denotes the corresponding author.
 [12] **Chen, J.***, S. Hagos, Z. Feng, J. D. Fast, and H. Xiao (2023), The Role of Cloud-Cloud Interactions in the Lifecycle of Shallow Cumulus Clouds, Journal of Atmospheric Science, doi: 10.1175/JAS-D-22-0004.1
    
 2022
--
+---
 [11] **Chen, J.***, H. Wang\*, X. Li, D. Painemal, A. Sorooshian, K. L. Thornhill, C. Robinson, and T. Shingler (2022), Impact of Meteorological Factors on the Mesoscale Morphology of Cloud Streets during a Cold Air Outbreak over the Western North Atlantic, Journal of Atmospheric Sciences, doi: 10.1175/JAS-D-22-0034.1
 
 [10] Ovchinnikov, M.*, J. D. Fast, L. K. Berg, W. I. Gustafson Jr., **J. Chen**, K. Sakaguchi, and H. Xiao (2022), Effects of Horizontal Resolution, Domain Size, Boundary Conditions, and Surface Heterogeneity on Coarse LES of a Convective Boundary Layer, Monthly Weather Review, doi: 10.1175/MWR-D-21-0244.1
@@ -40,7 +40,7 @@ Below, * denotes the corresponding author.
 [7] Sakaguchi, K.*, L. Berg, **J. Chen**, J. D. Fast, R. Newsom, S.-L. Tai, Z. Yang, W. I. Gustafson Jr., B.J. Gaudet, M. Huang, M. Pekour, K. Pressel, and H. Xiao (2022), Determining Spatial Scales of Soil Moisture - Cloud Coupling Pathways using Semi-Idealized Simulations, Journal of Geophysical Research: Atmospheres, doi: 10.1029/2021JD035282
 
 2016-2021
--
+---
 [6] **Chen, J.***, S. Hagos, H. Xiao, J. D. Fast, and Z. Feng (2020), Characterization of Surface Heterogeneity Induced Convection using Cluster Analysis, Journal of Geophysical Research: Atmospheres, doi: 10.1029/2020JD032550
 
 [5] **Chen, J.***, Y. Liu, and M. Zhang (2020), Effects of Lateral Entrainment-Mixing with Entrained Aerosols on Cloud Microphysics, Geophysical Research Letter, doi: 10.1029/2020GL087667.
