@@ -8,6 +8,9 @@ author_profile: true
 <p align="center">
   <img src="/files/sub_grid_scale.png" width="600">
 </p>
+<p align="center">
+<em>Figure is adapted from DOE PNNL SFA ICLASS Project Highlights</em>
+</p>
 
 Cloud processes occur across a wide spectrum of scales, from sub-micrometer dimensions (Cloud Condensation Nuclei) to thousands of kilometers (cloud systems). However, current numerical models lack the capacity to explicitly address this entire range of scales. Furthermore, interactions among numerous aspects, including cloud microphysics, precipitation, moist turbulence, latent heat release, circulation, and radiation, complicate the problem. 
 
@@ -18,8 +21,8 @@ Topic 1: Interactions among land, the boundary layer, and clouds
 
 Landscape heterogeneities induce secondary circulation by modifying the surface fluxes and their partitioning into sensible and latent heat fluxes, which contributes to the formation of planetary boundary layer characteristics and convective clouds. Variations in the landscape include different soil moisture levels and land-use types over land, as well as sea surface temperatures (SST) over the ocean. 
 
-
 <img align="right" src="/files/schematic_schematic.png" alt="My Image" width="500">
+
 Our previous research over the Southern Great Plain focused on the impacts of soil moisture heterogeneity on the timing, location, and intensities of shallow convective clouds [6,13]. Our studies, using isentropic analysis, showed that the isentropes associated with upward motion connect to the ground characterized by high latent heat fluxes, while isentropes associated with downward motion connect precipitation to the ground characterized by high sensible heat fluxes. The mixing of dry, warm parcels ascending from the ground with high sensible heat fluxes and moist parcels from high latent heat regions leads to cloud formation. This new mechanism explains how soil moisture heterogeneity provides the key ingredients, such as buoyancy and moisture, for shallow cloud formation. We also found that sub-mesoscale processes dominate upward energy transport in the boundary layer, while mesoscale circulations contribute to vertical energy transport above the boundary layer.
 
 
