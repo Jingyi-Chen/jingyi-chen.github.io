@@ -3,7 +3,7 @@ permalink: /
 author_profile: true
 ---
 <p align="center">
-  <img src="/files/cloud2.jpg" width="500" height="400">
+  <img src="/files/cloud2.png" width="600" height="450">
 </p>
 **Welcome to Jingyi Chen's research group homepage!** 
 
