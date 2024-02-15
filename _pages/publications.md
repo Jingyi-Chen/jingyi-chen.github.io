@@ -47,7 +47,7 @@ Below, * denotes the corresponding author.
 
 [4] Lu, C.*, Y. Liu\*, S. Yum, **J. Chen**, L. Zhu, S. Gao, Y. Yin, S. Niu, and X. Jia (2020), Reconciling Contrasting Relationships between Relative Dispersion and Volume-mean Radius of Cloud Droplet Size Distributions, Journal of Geophysical Research: Atmospheres, doi: 10.1029/2019JD031868.
 
-[3] Wang, Y., S. Niu*, C. Lu*, Y. Liu, **J. Chen**, W. Yang (2019), An observational study on cloud spectral width in North China, Atmosphere 2019, 10, 109.
+[3] Wang, Y., S. Niu\*, C. Lu\*, Y. Liu, **J. Chen**, W. Yang (2019), An observational study on cloud spectral width in North China, Atmosphere 2019, 10, 109.
 
 [2] **Chen, J.***, Y. Liu, M. Zhang, and Y. Peng (2018), Height Dependency of Aerosol-cloud Interaction Regimes, Journal of Geophysical Research: Atmospheres, doi: 10.1002/2017JD027431.
 
