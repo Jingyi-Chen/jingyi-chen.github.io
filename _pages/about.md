@@ -2,9 +2,10 @@
 permalink: /
 author_profile: true
 ---
-
-<img src="/files/cloud2.jpg"/>
-**Welcome to Jingyi Chen's research group homepage.** 
+<p align="center">
+  <img src="/files/cloud2.jpg" width="500" height="400">
+</p>
+**Welcome to Jingyi Chen's research group homepage!** 
 
 We are aimed at answering several grand challenging questions related to cloud evolution, land-atmosphere-cloud interactions and aerosol-cloud interactions. 
 
