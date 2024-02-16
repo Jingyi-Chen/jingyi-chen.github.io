@@ -12,9 +12,10 @@
 
   @include clearfix();
   margin-bottom: 1em;
+  margin-top: 0.5em;  /* added by QY */
 
   @include breakpoint($large) {
-    @include span(2 of 12);
+    @include span(2 of 12);   /* 2 of 12 */
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -72,7 +73,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
+  width: 36px;   /* 36px */
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -83,7 +84,7 @@
   }
 
   img {
-    max-width: 175px;
+    max-width: 20vw;    /* 175px */
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -94,10 +95,11 @@
 }
 
 .author__content {
-  display: table-cell;
+  text-align: center;  /* added by QY */
+  display: table-cell; 
   vertical-align: top;
-  padding-left: 15px;
-  padding-right: 25px;
+  padding-left: 0px;  /* 15px */
+  padding-right: 0px; /* 25px */
   line-height: 1;
 
   @include breakpoint($large) {
@@ -121,15 +123,6 @@
   font-size: $type-size-5;
 }
 
-.author__pronouns {
-  margin: 0;
-
-  @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 10px;
-  }
-}
-
 .author__bio {
   margin: 0;
 
@@ -140,7 +133,9 @@
 }
 
 .author__urls-wrapper {
+  text-align: center;  /* added by QY */
   position: relative;
+  /* left: 2vw;              /* added by QY */
   display: table-cell;
   vertical-align: middle;
   font-family: $sans-serif;
