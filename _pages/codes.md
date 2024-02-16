@@ -32,7 +32,7 @@ PyFLEXTRKR has specific capabilities to track convective clouds from a variety o
 
 - Feng, Z., Hardin, J., Barnes, H. C., Li, J., Leung, L. R., Varble, A., and Zhang, Z. (2023): PyFLEXTRKR: a flexible feature tracking Python software for convective cloud analysis, Geosci. Model Dev., doi:10.5194/gmd-16-2753-2023.
 
-- (Shallow Cumulus Example) Chen, J., S. Hagos, Z. Feng, J. D. Fast, and H. Xiao (2023), The Role of Cloud-Cloud Interactions in the Lifecycle of Shallow Cumulus Clouds, Journal of Atmospheric Science, doi: 10.1175/JAS-D-22-0004.1
+- An example to use it for shallow cumulus: Chen, J., S. Hagos, Z. Feng, J. D. Fast, and H. Xiao (2023), The Role of Cloud-Cloud Interactions in the Lifecycle of Shallow Cumulus Clouds, Journal of Atmospheric Science, doi: 10.1175/JAS-D-22-0004.1
 
 **Github link**: https://github.com/FlexTRKR/PyFLEXTRKR
 
