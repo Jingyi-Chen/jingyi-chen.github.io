@@ -18,7 +18,7 @@
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
-      max-width: $x-large;
+      max-width: 80vw;  /* $x-large */
     }
 
     nav {
@@ -47,7 +47,11 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
+    width: 13.0vw; /* added by QY */
+    text-align: center;  /* added by QY */
+    /* max-width: 13.0vw;    /* added by QY */
+    /* padding-left:  4.8vw; /* added by QY */
+    /* padding-right: 5vw; /* added by QY */
     font-weight: 700;
   }
 }
