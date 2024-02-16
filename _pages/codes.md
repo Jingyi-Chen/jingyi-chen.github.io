@@ -20,7 +20,7 @@ The author would thank them for the kind sharing. The entrainment-mixing version
 
 - Chen, J., Y. Liu and M. Zhang (2020), Effects of Lateral Entrainment-Mixing with Entrained Aerosols on Cloud Microphysics, Geophysical Research Letter, doi: 10.1029/2020GL087667.
 
-**github link**: https://github.com/Jingyi-Chen/cloud_parcel_mode
+**Github link**: https://github.com/Jingyi-Chen/cloud_parcel_mode
 
 2D Object Tracker
 ---
@@ -34,5 +34,5 @@ PyFLEXTRKR has specific capabilities to track convective clouds from a variety o
 
 - Chen, J., S. Hagos, Z. Feng, J. D. Fast, and H. Xiao (2023), The Role of Cloud-Cloud Interactions in the Lifecycle of Shallow Cumulus Clouds, Journal of Atmospheric Science, doi: 10.1175/JAS-D-22-0004.1
 
-**github link**: https://github.com/FlexTRKR/PyFLEXTRKR
+**Github link**: https://github.com/FlexTRKR/PyFLEXTRKR
 
