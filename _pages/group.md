@@ -18,8 +18,10 @@ Mentoree
 
 **Undergraduates**
 
-2024: Travis Hahn (SBU student, co-mentoring under US DOE 3-month mentoring program)
+2024-present: Chuang Xu, Jialu Xue, Xiaoyu Zheng (NUIST students in the class of 2025, co-mentor)
 
-2023-2024: Yiqi Chen (NUIST student, co-mentoring for her undergraduate thesis)
+2024: Travis Hahn (SBU student, co-mentor under US DOE 3-month mentoring program)
+
+2023-2024: Yiqi Chen (NUIST student in the class of 2024, co-mentor)
 
 
