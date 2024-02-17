@@ -36,3 +36,11 @@ PyFLEXTRKR has specific capabilities to track convective clouds from a variety o
 
 [GitHub Pages](https://github.com/FlexTRKR/PyFLEXTRKR): https://github.com/FlexTRKR/PyFLEXTRKR
 
+Extreme Computing Training
+- 
+Argonne Training Program on Extreme-Scale Computing (ATPESC) provides intensive, two-week training on the key skills, approaches, and tools to design, implement, and execute computational science and engineering applications on current high-end computing systems and the leadership-class computing systems of the future. The core of the program will focus on programming methodologies that are effective across a variety of supercomputers and that are expected to be applicable to exascale systems.
+
+[ATPESC Webpage](https://extremecomputingtraining.anl.gov/)
+
+[Videos in 2022](https://www.youtube.com/playlist?list=PLcbxjEfgjpO9OeDu--H9_XqyxPj3MkjdN)
+
