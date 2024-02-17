@@ -12,7 +12,7 @@ Below, * denotes the corresponding author.
 
 2023
 ---
-[18] **Chen, J.**\*, S. Hagos, H. Xiao, Z. Feng, J. Fast, C. Lu, A. Varble and J. Sun (2023), The effects of shallow cumulus cloud shape on the cloud-cloud interactions and cloud-environment mixing, Geophysical Research Letter, doi: 10.1029/2023GL106334
+[18] **Chen, J.**\*, S. Hagos, H. Xiao, Z. Feng, J. Fast, C. Lu, A. Varble and J. Sun (2023), The effects of shallow cumulus cloud shape on the cloud-cloud interactions and cloud-environment mixing, Geophysical Research Letter, doi: 10.1029/2023GL106334. [Spotlight article](https://www.pnnl.gov/publications/whats-cloud-look)
 
 [17] Hagos, S.\*, Z. Feng, S. Tai and **J. Chen** (2023), Regional variability in the environmental controls of precipitation regimes in the tropics, Journal of Geophysical Research: Atmospheres, doi: 10.1029/2023JD038927
 
