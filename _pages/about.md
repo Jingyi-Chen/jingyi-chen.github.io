@@ -16,7 +16,7 @@ News
 ======
 * **2024.02**: New paper accepted, Chen, J., Y. Qian, T. Chakraborty, and Z. Yang, Complexities of urban impacts on long-term seasonal trends in a mid-sized arid city, Environmental Research Communication
 
-* **2023.12**: New paper accepted, Chen, J., S. Hagos, H. Xiao, Z. Feng, J. Fast, C. Lu, A. Varble and J. Sun, The effects of shallow cumulus cloud shape on the cloud-cloud interactions and cloud-environment mixing, Geophysical Research Letter
+* **2023.12**: New paper accepted, Chen, J., S. Hagos, H. Xiao, Z. Feng, J. Fast, C. Lu, A. Varble and J. Sun, The effects of shallow cumulus cloud shape on the cloud-cloud interactions and cloud-environment mixing, Geophysical Research Letter. [Spotlight article](https://www.pnnl.gov/publications/whats-cloud-look)
 
 
 
