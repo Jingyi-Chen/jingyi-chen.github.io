@@ -8,7 +8,7 @@ Below, * denotes the corresponding author.
 
 2024
 ---
-[19] **Chen, J.**\*, Y. Qian\*, T. Chakraborty, and Z. Yang (2024), Complexities of urban impacts on long-term seasonal trends in a mid-sized arid city, Environmental Research Communication (accepted)
+[19] **Chen, J.**\*, Y. Qian\*, T. Chakraborty, and Z. Yang (2024), Complexities of urban impacts on long-term seasonal trends in a mid-sized arid city, Environmental Research Communication, doi:10.1088/2515-7620/ad2b18.
 
 2023
 ---
