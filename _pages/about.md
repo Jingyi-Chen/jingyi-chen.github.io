@@ -14,7 +14,7 @@ I am focused on addressing several grand challenges related to cloud processes a
 
 News
 ======
-* **2024.02**: New paper accepted, Chen, J., Y. Qian, T. Chakraborty, and Z. Yang, Complexities of urban impacts on long-term seasonal trends in a mid-sized arid city, Environmental Research Communication. [Media: NW News](https://www.nwnewsnetwork.org/environment-and-planning/2024-02-22/study-as-the-climate-changes-the-desert-tri-cities-is-actually-getting-cooler) [Media: NPR Network](https://www.kuow.org/stories/study-as-the-climate-changes-the-desert-tri-cities-is-actually-getting-cooler)
+* **2024.02**: New paper accepted, Chen, J., Y. Qian, T. Chakraborty, and Z. Yang, Complexities of urban impacts on long-term seasonal trends in a mid-sized arid city, Environmental Research Communication. [Media: NPR Network](https://www.kuow.org/stories/study-as-the-climate-changes-the-desert-tri-cities-is-actually-getting-cooler)
 
 * **2023.12**: New paper accepted, Chen, J., S. Hagos, H. Xiao, Z. Feng, J. D. Fast, C. Lu, A. Varble and J. Sun, The effects of shallow cumulus cloud shape on the cloud-cloud interactions and cloud-environment mixing, Geophysical Research Letter. [Spotlight article](https://www.pnnl.gov/publications/whats-cloud-look)
 
