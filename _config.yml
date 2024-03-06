@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jingyi Chen"
-description              : &description "Earth Scientist"
+description              : &description "Professor"
 url                      : https://jingyi-chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jingyi-chen/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Jingyi Chen"
   avatar           : "Chen.jpg"
-  bio              : "Earth Scientist at Pacific Northwest National Laboratory"
+  bio              : "Professor at Nanjing University of Information Science and Technology"
   pronouns         : # example: "she/her"
   location         : #"Location"
   employer         :
