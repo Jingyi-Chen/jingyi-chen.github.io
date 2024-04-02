@@ -8,7 +8,7 @@ Below, * denotes the corresponding author.
 
 2024
 ---
-[20]	Li, X.*, H. Wang*, M. W. Christensen, **J. Chen**, S. Tang, S. Kirschler, E. Crosbie, L. D. Ziemba, D. Painemal,  A. F. Corral, K. Ann McCauley, S. Dmitrovic, A. Sorooshian, M. Fenn, J. S. Schlosser, S. Stamnes, J. W. Hair, B. Cairns, R. Moore, R. A. Ferrare, M. A. Shook, Y. Choi, G. S. Diskin, J. DiGangi, J. B. Nowak, C. Robinson, T. J. Shingler, K. L. Thornhill, and C. Voigt (2024), Process Modeling of Aerosol-cloud Interaction in Summertime Precipitating Shallow Cumulus over the Western North Atlantic, Journal of Geophysical Research: Atmospheres, doi: 10.1029/2023JD039489
+[20]	Li, X.\*, H. Wang\*, M. W. Christensen, **J. Chen**, S. Tang, S. Kirschler, E. Crosbie, L. D. Ziemba, D. Painemal,  A. F. Corral, K. Ann McCauley, S. Dmitrovic, A. Sorooshian, M. Fenn, J. S. Schlosser, S. Stamnes, J. W. Hair, B. Cairns, R. Moore, R. A. Ferrare, M. A. Shook, Y. Choi, G. S. Diskin, J. DiGangi, J. B. Nowak, C. Robinson, T. J. Shingler, K. L. Thornhill, and C. Voigt (2024), Process Modeling of Aerosol-cloud Interaction in Summertime Precipitating Shallow Cumulus over the Western North Atlantic, Journal of Geophysical Research: Atmospheres, doi: 10.1029/2023JD039489
 
 [19] **Chen, J.**\*, Y. Qian\*, T. Chakraborty, and Z. Yang (2024), Complexities of urban impacts on long-term seasonal trends in a mid-sized arid city, Environmental Research Communication, doi:10.1088/2515-7620/ad2b18. [NPR Network Live 94.9 FM](https://www.kuow.org/stories/study-as-the-climate-changes-the-desert-tri-cities-is-actually-getting-cooler)  [NW News](https://www.nwnewsnetwork.org/environment-and-planning/2024-02-22/study-as-the-climate-changes-the-desert-tri-cities-is-actually-getting-cooler)
 
