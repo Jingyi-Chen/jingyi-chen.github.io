@@ -18,7 +18,7 @@ Mentoree
 
 **Undergraduates**
 
-2024-present: Chuang Xu, Jialu Xue, Xiaoyu Zheng (NUIST students in the class of 2025, co-mentor)
+2024-present: Chuang Xu (NUIST students in the class of 2025, co-mentor)
 
 2024: Travis Hahn (PSU student, co-mentor under DOE 3-month mentoring program)
 
