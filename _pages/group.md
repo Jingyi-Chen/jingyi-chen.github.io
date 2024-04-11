@@ -13,16 +13,13 @@ Mentoree
 -
 **Graduates**
 
-Current Master Students:
-
+Master Students:
 Qiqi Song, Yali Guo
 
 **Undergraduates**
 
 Yuna Tang, Xiang Wei, Ying Ma, Yadong Wang (class of 2026)
-
 Chuang Xu (class of 2025, co-mentor)
-
 Yiqi Chen (class of 2024, co-mentor)
 
 
