@@ -15,7 +15,7 @@ Education
 Work experience
 ---
 * 03/2024 - present: Professor
-  * Nanjing University of Information Science and Technology, Nanjing, China
+  * Nanjing University of Information Science and Technology, Jiangsu, China
 
 * 08/2020 - 02/2024: Earth Scientist
   * Pacific Northwest National Laboratory, WA, USA
