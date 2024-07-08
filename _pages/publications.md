@@ -9,9 +9,9 @@ Below, * denotes the corresponding author.
 Selected Papers as Lead Author
 ---
 
-[10] Chen, J.*, S. Hagos, J. D. Fast, and Z. Feng, Predicting the Evolution of Shallow Cumulus Clouds with a Lotka-Volterra like Model, submitted to Journal of Advances in Modeling Earth Systems 
+[10] Chen, J.\*, S. Hagos, J. D. Fast, and Z. Feng, Predicting the Evolution of Shallow Cumulus Clouds with a Lotka-Volterra like Model, submitted to Journal of Advances in Modeling Earth Systems 
 
-[9] Chen, J.*, Y. Qian*, T. Chakraborty, and Z. Yang (2024), Complexities of urban impacts on long-term seasonal trends in a mid-sized arid city, Environmental Research Communication, doi: 10.1088/2515-7620/ad2b18
+[9] Chen, J.\*, Y. Qian\*, T. Chakraborty, and Z. Yang (2024), Complexities of urban impacts on long-term seasonal trends in a mid-sized arid city, Environmental Research Communication, doi: 10.1088/2515-7620/ad2b18
 
 [8] Chen, J.*, S. Hagos, H. Xiao, Z. Feng, J. D. Fast, C. Lu, A. Varble, and J. Sun (2023), The effects of shallow cumulus cloud shape on the cloud-cloud interactions and cloud-environment mixing, Geophysical Research Letter, doi: 10.1029/2023GL106334
 
