@@ -6,7 +6,7 @@ author_profile: true
 
 Below, * denotes the corresponding author.
 
-Selected Selected Papers as Lead Author
+Selected Papers as Lead Author
 ---
 
 [10] Chen, J.*, S. Hagos, J. D. Fast, and Z. Feng, Predicting the Evolution of Shallow Cumulus Clouds with a Lotka-Volterra like Model, submitted to Journal of Advances in Modeling Earth Systems 
