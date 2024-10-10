@@ -33,6 +33,10 @@ Selected Papers as Lead Author
 Selected Papers as Co-author
 ---
 
+[13] Zhu, L., C. Lu\*, **J. Chen**, Y. Wang, X. He, and J. Li (2024), Aircraft Observations Reveal Aerosol Suppression of Cumulus Entrainment Rates, Geophysical Research Letter, doi: 10.1029/2024GL110881
+
+[12] Tang, S.\*, H. Wang\*, X. Li, **J. Chen**, A. Sorooshian, X. Zeng, E. Crosbie, K. L. Thornhill, L. D. Ziemba, and C. Voigt (2024), Understanding Aerosol-Cloud Interactions in a Single-Column Model: Intercomparison with Process-Level Models and Evaluation against ACTIVATE Field Measurement, Atmospheric Chemistry and Physics, 24, 10073–10092, doi: /10.5194/acp-24-10073-2024
+
 [11] Liu, Y.\*., Y. Qian\*, L. K. Berg, Z. Feng, J. Li, **J. Chen**, and Z. Yang (2024), Tracking precipitation features and associated large-scale environments over southeastern Texas, Atmospheric Chemistry and Physics, doi: 10.5194/acp-24-8165-2024
 
 [10] Li, X.\*, H. Wang*, M. W. Christensen, **J. Chen**, S. Tang, S. Kirschler, E. Crosbie, L. D. Ziemba, D. Painemal,  A. F. Corral, K. Ann McCauley, S. Dmitrovic, A. Sorooshian, M. Fenn, J. S. Schlosser, S. Stamnes, J. W. Hair, B. Cairns, R. Moore, R. A. Ferrare, M. A. Shook, Y. Choi, G. S. Diskin, J. DiGangi, J. B. Nowak, C. Robinson, T. J. Shingler, K. L. Thornhill, and C. Voigt (2024), Process Modeling of Aerosol-cloud Interaction in Summertime Precipitating Shallow Cumulus over the Western North Atlantic, Journal of Geophysical Research: Atmospheres, doi: 10.1029/2023JD039489
