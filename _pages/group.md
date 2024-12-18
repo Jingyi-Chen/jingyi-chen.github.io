@@ -18,7 +18,7 @@ Qiqi Song, Yali Guo
 
 **Undergraduates**
 
-Class of 2027: Mingxi Yin, Yiwei Zhu (co-mentor)\
+Class of 2027: Mingxi Yin, Yiwei Zhu\
 Class of 2026: Yuna Tang, Xiang Wei, Ying Ma, Jiayi Wang\
 Class of 2025: Chuang Xu (co-mentor)\
 Class of 2024: Yiqi Chen (co-mentor)
