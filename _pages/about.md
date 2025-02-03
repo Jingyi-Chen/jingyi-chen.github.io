@@ -14,6 +14,8 @@ I am focused on addressing several grand challenges related to cloud processes a
 
 News
 ======
+* **2025.01**: New paper accepted, Chen, J., S. Hagos, J. D. Fast, and Z. Feng, Predicting the Evolution of Shallow Cumulus Clouds with a Lotka-Volterra like Model, Journal of Advances in Modeling Earth Systems, doi: 10.1029/2023MS003739
+
 * **2024.09**: Welcome Qiqi Song and Yali Guo to our group!
 
 * **2024.02**: New paper accepted, Chen, J., Y. Qian, T. Chakraborty, and Z. Yang, Complexities of urban impacts on long-term seasonal trends in a mid-sized arid city, Environmental Research Communication. [NPR Network Live 94.9 FM](https://www.kuow.org/stories/study-as-the-climate-changes-the-desert-tri-cities-is-actually-getting-cooler)     [NW News](https://www.nwnewsnetwork.org/environment-and-planning/2024-02-22/study-as-the-climate-changes-the-desert-tri-cities-is-actually-getting-cooler)
