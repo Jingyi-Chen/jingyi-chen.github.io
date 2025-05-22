@@ -8,7 +8,7 @@ Below, * denotes the corresponding author.
 
 Selected Papers as Lead Author
 ---
-[11] Chen, Y., **J. Chen***, L. Zhu, Z. Qin, J. Chen, J. Yang, P. Lin, Z. Zhou, Q. Chen, and C. Lu* (2025), Turbulence-induced Non-Monotonic Influence of Aerosols on Cloud Droplet Size Distribution, Geophysical Research Letter, doi:10.1029/2025GL115540
+[11] Chen, Y., **J. Chen\*\***, L. Zhu, Z. Qin, J. Chen, J. Yang, P. Lin, Z. Zhou, Q. Chen, and C. Lu\* (2025), Turbulence-induced Non-Monotonic Influence of Aerosols on Cloud Droplet Size Distribution, Geophysical Research Letter, doi:10.1029/2025GL115540
 
 [10] **Chen, J.\***, S. Hagos, J. D. Fast, and Z. Feng (2025), Predicting the Evolution of Shallow Cumulus Clouds with a Lotka-Volterra like Model, Journal of Advances in Modeling Earth Systems, doi: 10.1029/2023MS003739
 
