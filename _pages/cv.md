@@ -29,7 +29,7 @@ Work experience
 Service
 ---
 * 2025 - present: Guest Editor of Journal Meteorological Research
-* 2023 - 2025: Session chair at AMS Annual Meeting
+* 2023 - 2025: Session co-chair at AMS Annual Meeting
 
 Awards
 ---
