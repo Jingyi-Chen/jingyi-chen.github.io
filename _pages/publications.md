@@ -8,6 +8,7 @@ Below, * denotes the corresponding author.
 
 Selected Papers as Lead Author
 ---
+[11] Chen, Y., **J. Chen***, L. Zhu, Z. Qin, J. Chen, J. Yang, P. Lin, Z. Zhou, Q. Chen, and C. Lu* (2025), Turbulence-induced Non-Monotonic Influence of Aerosols on Cloud Droplet Size Distribution, Geophysical Research Letter, doi:10.1029/2025GL115540
 
 [10] **Chen, J.\***, S. Hagos, J. D. Fast, and Z. Feng (2025), Predicting the Evolution of Shallow Cumulus Clouds with a Lotka-Volterra like Model, Journal of Advances in Modeling Earth Systems, doi: 10.1029/2023MS003739
 
@@ -32,6 +33,7 @@ Selected Papers as Lead Author
 
 Selected Papers as Co-author
 ---
+[14] Hagos, S.*, F. Zhe, A. Varble, S. Tai, and **J. Chen** (2025), The impacts of rotational mixing on the precipitation simulated by a convection permitting model, Journal of Advances in Modeling Earth Systems, doi: 10.1029/2024MS004524
 
 [13] Zhu, L., C. Lu\*, **J. Chen**, Y. Wang, X. He, and J. Li (2024), Aircraft Observations Reveal Aerosol Suppression of Cumulus Entrainment Rates, Geophysical Research Letter, doi: 10.1029/2024GL110881
 
