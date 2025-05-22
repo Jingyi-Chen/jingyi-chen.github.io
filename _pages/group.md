@@ -11,6 +11,8 @@ My aim is to contribute to your professional and personal growth -- some univers
 
 Mentoree
 -
+The number in brackets below refers to the item in the publications tab.
+
 **Graduates**
 
 Master Students:\
@@ -21,6 +23,6 @@ Qiqi Song, Yali Guo
 Class of 2027: Mingxi Yin, Yiwei Zhu, Cunxi Dai\
 Class of 2026: Yuna Tang, Xiang Wei, Ying Ma, Jiayi Wang\
 Class of 2025: Chuang Xu (co-mentor)\
-Class of 2024: Yiqi Chen (co-mentor)
+Class of 2024: Yiqi Chen [11] (co-mentor)
 
 
