@@ -15,12 +15,15 @@ The number in brackets below refers to the item in the publications tab.
 
 **Graduates**
 
+Ph.D. Student:\
+Pan Zhao
+
 Master Students:\
-Qiqi Song, Yali Guo
+Qiqi Song, Yali Guo, Zixuan Yang, Yu Zou
 
 **Undergraduates**
 
-Class of 2027: Mingxi Yin, Yiwei Zhu, Cunxi Dai\
+Class of 2027: Mingxi Yin, Yiwei Zhu, Cunxi Dai, Jiayi Tian\
 Class of 2026: Yuna Tang, Xiang Wei, Ying Ma, Jiayi Wang\
 Class of 2025: Chuang Xu (co-mentor)\
 Class of 2024: Yiqi Chen [11] (co-mentor)
