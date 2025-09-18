@@ -34,9 +34,7 @@ Selected Papers as Lead Author
 Selected Papers as Co-author
 ---
 
-[17] Yang, Z.\*, N. Guo, Y. Qian, L. Berg, J. D. Fast, C. Kaul, **J. Chen**, K. Sakaguchi, S. Tai, B. Gaudet, Y. Liu, and H. Xiao (2025), Improved representations of land-atmosphere interactions over the Continental U.S. through dynamic root modeling, Journal of Advances in Modeling Earth Systems, doi: 10.1029/2024MS004474
-
-[16] Hahn, T., D. Wang\*, **J. Chen**, M. Jensen (2025), Evaluating Sea Breezes and Associated Convective Cloud Evolution in the Model Gray Zone, Journal of Geophysical Research: Atmospheres, doi: 10.1029/2024JD042586
+[16] Yang, Z.\*, N. Guo, Y. Qian, L. Berg, J. D. Fast, C. Kaul, **J. Chen**, K. Sakaguchi, S. Tai, B. Gaudet, Y. Liu, and H. Xiao (2025), Improved representations of land-atmosphere interactions over the Continental U.S. through dynamic root modeling, Journal of Advances in Modeling Earth Systems, doi: 10.1029/2024MS004474
 
 [15] Sorooshian A.\*, L. W. Siu , K. Butler, M. A. Brunke, B. Cairns, S. Chellappan, **J. Chen**, Yonghoon Choi, E. C. Crosbie, L. Cutler, J. P. DiGangi, G. S. Diskin, R. A. Ferrare, J. W. Hair, C. A. Hostetler, S. Kirschler, M. M. Kleb, X. Li, H. Liu, A. McComiskey, S. Namdari, D. Painemal, J. S. Schlosser, T. Shingler, M. A. Shook, S. Silva, K. Sinclair, W. L. Smith Jr., C. Soloff, S. Stamnes, S. Tang, K. L. Thornhill, F. Tornow, G. Tselioudis, B. Van Diedenhoven, C. Voigt, H. Vömel, H. Wang, E. L. Winstead, Y. Xu, X. Zeng, B. Zhang, L. Ziemba, P. Zuidema (2025), The NASA ACTIVATE Mission, Bulletin of the American Meteorological Society, doi: 10.1175/BAMS-D-24-0136.1
 
