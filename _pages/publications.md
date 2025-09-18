@@ -38,7 +38,7 @@ Selected Papers as Co-author
 
 [15] Sorooshian A.\*, L. W. Siu , K. Butler, M. A. Brunke, B. Cairns, S. Chellappan, **J. Chen**, Yonghoon Choi, E. C. Crosbie, L. Cutler, J. P. DiGangi, G. S. Diskin, R. A. Ferrare, J. W. Hair, C. A. Hostetler, S. Kirschler, M. M. Kleb, X. Li, H. Liu, A. McComiskey, S. Namdari, D. Painemal, J. S. Schlosser, T. Shingler, M. A. Shook, S. Silva, K. Sinclair, W. L. Smith Jr., C. Soloff, S. Stamnes, S. Tang, K. L. Thornhill, F. Tornow, G. Tselioudis, B. Van Diedenhoven, C. Voigt, H. Vömel, H. Wang, E. L. Winstead, Y. Xu, X. Zeng, B. Zhang, L. Ziemba, P. Zuidema (2025), The NASA ACTIVATE Mission, Bulletin of the American Meteorological Society, doi: 10.1175/BAMS-D-24-0136.1
 
-[14] Hagos, S.\*, F. Zhe, A. Varble, S. Tai, and **J. Chen** (2025), The impacts of rotational mixing on the precipitation simulated by a convection permitting model, Journal of Advances in Modeling Earth Systems, doi: 10.1029/2024MS004524
+[14] Hagos, S.\*, Z. Feng, A. Varble, S. Tai, and **J. Chen** (2025), The impacts of rotational mixing on the precipitation simulated by a convection permitting model, Journal of Advances in Modeling Earth Systems, doi: 10.1029/2024MS004524
 
 [13] Zhu, L., C. Lu\*, **J. Chen**, Y. Wang, X. He, and J. Li (2024), Aircraft Observations Reveal Aerosol Suppression of Cumulus Entrainment Rates, Geophysical Research Letter, doi: 10.1029/2024GL110881
 
