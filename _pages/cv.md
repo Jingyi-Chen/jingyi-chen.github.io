@@ -28,6 +28,7 @@ Work experience
   
 Service
 ---
+* 2025 - present: Associate Editor of Geophysical Research Letters
 * 2025 - present: Guest Editor of Journal Meteorological Research
 * 2023 - 2025: Session co-chair at AMS Annual Meeting
 
