@@ -23,8 +23,9 @@ Qiqi Song, Yali Guo, Zixuan Yang, Yu Zou
 
 **Undergraduates**
 
-Class of 2027: Mingxi Yin, Yiwei Zhu, Cunxi Dai, Jiayi Tian\
-Class of 2026: Yuna Tang, Xiang Wei, Ying Ma, Jiayi Wang\
+Class of 2028: En Zhang, Zhangxibei Liu, Xinyu Liu, Xiaoyue Zhang, Jiaxu Yang, Xinyu Chen\
+Class of 2027: Mingxi Yin, Cunxi Dai, Jiayi Tian, Zhilong Yao, Minyue Wang, Yiwei Zhu\
+Class of 2026: Yuna Tang, Xiang Wei, Ying Ma, Jiayi Wang, Haichen Xu\
 Class of 2025: Chuang Xu (co-mentor)\
 Class of 2024: Yiqi Chen [11] (co-mentor)
 
