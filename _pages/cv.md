@@ -15,7 +15,7 @@ Education
 Work experience
 ---
 * 03/2024 - present: Professor
-  * Nanjing University of Information Science and Technology, Jiangsu, China
+  * Nanjing University of Information Science and Technology (NUIST), Jiangsu, China
 
 * 08/2020 - 02/2024: Earth Scientist
   * Pacific Northwest National Laboratory, WA, USA
@@ -30,7 +30,7 @@ Service
 ---
 * 2025 - present: Associate Editor of Geophysical Research Letters
 * 2025 - present: Guest Editor of Journal Meteorological Research
-* 2023 - 2025: Session co-chair at AMS Annual Meeting
+* Conference session co-chair: EGU General Assembly (2026); AOGS Annual Meeting (2026); AMS Annual Meeting (2023-2025)
 
 Awards
 ---
