@@ -7,8 +7,9 @@ author_profile: true
 
 **Undergraduate Level**
 -
+Mesoscale and Microscale Meteorology (Spring 2026)\
 Physics of Cloud and Precipitation (Fall 2025; Spring 2026)\
-Mesoscale and Microscale Meteorology (Spring 2026)
+Radar Meteorology (Fall 2024)
 
 **Graduate Level**
 -
