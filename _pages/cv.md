@@ -30,7 +30,7 @@ Service
 ---
 * 2025 - present: Associate Editor of Geophysical Research Letters
 * 2025 - present: Guest Editor of Journal Meteorological Research
-* Conference session co-chair: EGU General Assembly (2026); AOGS Annual Meeting (2026); AMS Annual Meeting (2023-2025)
+* Co-chair of Conferences: EGU General Assembly (2026); AOGS Annual Meeting (2026); AMS Annual Meeting (2023-2025)
 
 Awards
 ---
