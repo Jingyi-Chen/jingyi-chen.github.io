@@ -11,17 +11,18 @@ My aim is to contribute to your professional and personal growth -- some univers
 
 Mentoree
 -
-The number in brackets below refers to the item in the publications tab.
+The number in bracket below refers to the item in the publications tab.
 
-**Ph.D. Student**
+
+**Ph.D. Student:**
 
 Pan Zhao
 
-**Master Students**
+**Master Students:**
 
 Qiqi Song, Yali Guo, Zixuan Yang, Yu Zou
 
-**Undergraduates**
+**Undergraduates:**
 
 * Class of 2028: En Zhang, Zhangxibei Liu, Xinyu Liu, Xiaoyue Zhang, Jiaxu Yang, Xinyu Chen
 * Class of 2027: Mingxi Yin, Cunxi Dai, Jiayi Tian, Zhilong Yao, Hanxiao Li, Yiwei Zhu
