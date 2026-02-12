@@ -16,6 +16,11 @@ News
 ======
 * **2026.02**: New paper accepted, Chen, J.\*, H. Wang\*, B. Zhang, H. Liu, D. Painemal, A. Sorooshian, S. Tai and C. Voigt (2026), Response of marine post-frontal clouds to Gulf Stream variability, Atmospheric Chemistry and Physics, doi: 10.5194/acp-26-2209-2026
 
+* **2025.12**: First group photo to celebrate the new year!
+<p align="center">
+  <img src="/files/group_photo_2025.jpg" width="400" height="300">
+</p>
+
 * **2025.09**: Welcome Pan Zhao, Zixuan Yang and Yu Zou to our group!
 
 * **2025.05**: New paper accepted, Chen, Y., J. Chen\*, L. Zhu, Z. Qin, J. Chen, J. Yang, P. Lin, Z. Zhou, Q. Chen, and C. Lu\* (2025), Turbulence-induced Non-Monotonic Influence of Aerosols on Cloud Droplet Size Distribution, Geophysical Research Letter, doi:10.1029/2025GL115540
