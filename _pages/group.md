@@ -13,12 +13,12 @@ Mentoree
 -
 The number in brackets below refers to the item in the publications tab.
 
-**Graduates**
+**Ph.D. Student**
 
-Ph.D. Student:\
 Pan Zhao
 
-Master Students:\
+**Master Students**
+
 Qiqi Song, Yali Guo, Zixuan Yang, Yu Zou
 
 **Undergraduates**
