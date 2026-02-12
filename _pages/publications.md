@@ -8,7 +8,7 @@ Below, * denotes the corresponding author.
 
 Selected Papers as Lead Author
 ---
-[12] **Chen, J.\***, Wang, H.\*, Zhang, B., Liu, H., Painemal, D., Sorooshian, A., Tai, S.-L., and Voigt, C. (2026), Response of marine post-frontal clouds to Gulf Stream variability, Atmos. Chem. Phys., 26, 2209–2224, https://doi.org/10.5194/acp-26-2209-2026
+[12] **Chen, J.\***, Wang, H.\*, Zhang, B., Liu, H., Painemal, D., Sorooshian, A., Tai, S.-L., and Voigt, C. (2026), Response of marine post-frontal clouds to Gulf Stream variability, Atmos. Chem. Phys., 26, 2209–2224, doi:10.5194/acp-26-2209-2026
 
 [11] Chen, Y., **J. Chen\***, L. Zhu, Z. Qin, J. Chen, J. Yang, P. Lin, Z. Zhou, Q. Chen, and C. Lu\* (2025), Turbulence-induced Non-Monotonic Influence of Aerosols on Cloud Droplet Size Distribution, Geophysical Research Letter, doi:10.1029/2025GL115540
 
