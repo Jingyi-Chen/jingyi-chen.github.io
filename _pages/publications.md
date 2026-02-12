@@ -35,7 +35,7 @@ Selected Papers as Lead Author
 
 Selected Papers as Co-author
 ---
-[18]Yu, Y., Y.Yang*, H. Wang, L. Russell, P. Wang, J. Jin, **J. Chen**, Y. Yang, W. Xia, H. Liao (2026), Marine cloud brightening mitigates the warming induced by the aerosol reductions toward carbon neutrality, Communications Earth & Environment
+[18]Yu, Y., Y. Yang*, H. Wang, L. Russell, P. Wang, J. Jin, **J. Chen**, Y. Yang, W. Xia, H. Liao (2026), Marine cloud brightening mitigates the warming induced by the aerosol reductions toward carbon neutrality, Communications Earth & Environment
 
 [17] Chen, X., S. Luo, Y. Liu, **J. Chen**, T. Zhang, and C. Lu\* (2025), Convergence of cloud droplet spectral relative dispersion during entrainment-mixing based on particle-resolved Direct Numerical Simulations, Journal of Geophysical Research: Atmospheres, doi: 10.1029/2025JD044265
 
