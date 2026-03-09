@@ -8,6 +8,7 @@ Below, * denotes the corresponding author.
 
 Selected Papers as Lead Author
 ---
+
 [14] Guo, Y., **J. Chen\***, H. Shi, H. Chen, and C. Lu (2026), Disentangling the Effects of Orographic Forcing and Soil Moisture on Shallow Cumulus in a Semi-Arid Grassland, Atmospheric Research, doi: /10.1016/j.atmosres.2026.108905.
 
 [13] Xu, C., **J. Chen\***, C. Lu and Y. Chen (2026), Cloud Lifetime Response to Lateral Interactions from Strength-Variable Neighbors, Geoscience Letters, doi: 10.1186/s40562-026-00469-y
