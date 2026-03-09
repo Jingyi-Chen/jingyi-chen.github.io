@@ -14,7 +14,16 @@ I am focused on addressing several grand challenges related to cloud processes a
 
 News
 ======
-* **2026.02**: New paper accepted, Chen, J.\*, H. Wang\*, B. Zhang, H. Liu, D. Painemal, A. Sorooshian, S. Tai and C. Voigt (2026), Response of marine post-frontal clouds to Gulf Stream variability, Atmospheric Chemistry and Physics, doi: 10.5194/acp-26-2209-2026
+
+* **2026.03**: New paper accepted:
+
+Guo, Y., J. Chen\*, H. Shi, H. Chen, and C. Lu (2026), Disentangling the Effects of Orographic Forcing and Soil Moisture on Shallow Cumulus in a Semi-Arid Grassland, Atmospheric Research, doi: /10.1016/j.atmosres.2026.108905.
+
+* **2026.02**: New papers accepted,
+
+Chen, J.\*, H. Wang\*, B. Zhang, H. Liu, D. Painemal, A. Sorooshian, S. Tai and C. Voigt (2026), Response of marine post-frontal clouds to Gulf Stream variability, Atmospheric Chemistry and Physics, doi: 10.5194/acp-26-2209-2026
+
+Xu, C., J. Chen*, C. Lu and Y. Chen (2026), Cloud Lifetime Response to Lateral Interactions from Strength-Variable Neighbors, Geoscience Letters, doi: 10.1186/s40562-026-00469-y
 
 * **2025.12**: First group photo to celebrate the new year!
 <p align="center">
