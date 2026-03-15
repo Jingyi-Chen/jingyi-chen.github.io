@@ -34,6 +34,7 @@ Service
 
 Awards
 ---
+* Outstanding Reviewer Award for Environment Research: Climate, 2025
 * Asia Oceania Geosciences Society (AOGS) Kamide Lecture Award, 2025
 * Outstanding Reviewers for Earth and Space Science, 2024
 * National Aeronautics and Space Administration (NASA) Group Achievement Award to ACTIVATE Earth Venture Sub-orbital Mission, 2023
