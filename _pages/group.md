@@ -27,17 +27,17 @@ I believe that research is about more than *"publish or perish."* Beyond academi
 
 ### Ph.D. Students
 
-- **Pan Zhao**
-- **Qiqi Song**
-- **Yali Guo** — [14]
-- **Qingqin Yang**
+- Pan Zhao
+- Qiqi Song
+- Yali Guo — [14]
+- Qingqin Yang
 
 ### Master's Students
 
-- **Zixuan Yang**
-- **Yu Zou**
-- **Yuna Tang**
-- **Chao Hu**
+- Zixuan Yang
+- Yu Zou
+- Yuna Tang
+- Chao Hu
 
 
 
