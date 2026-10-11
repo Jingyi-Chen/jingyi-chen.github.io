@@ -40,6 +40,8 @@ Selected Papers as Lead Author
 
 Selected Papers as Co-author
 ---
+[19] Liu, D., Chen, Y., Liu, S., Wang, H.\*, **Chen, J.**, Yang, Y., Wang, Z., Cui, K., and Zhao, T.: Regulation of cloud particle spectra and vertical structure by sub-cloud aerosols: insights from aircraft observations and numerical simulations, Atmos. Chem. Phys., 26, 5781–5797, https://doi.org/10.5194/acp-26-5781-2026, 2026.
+
 [18]Yu, Y., Y. Yang*, H. Wang, L. Russell, P. Wang, J. Jin, **J. Chen**, Y. Yang, W. Xia, H. Liao (2026), Marine cloud brightening mitigates the warming induced by the aerosol reductions toward carbon neutrality, Communications Earth & Environment
 
 [17] Chen, X., S. Luo, Y. Liu, **J. Chen**, T. Zhang, and C. Lu\* (2025), Convergence of cloud droplet spectral relative dispersion during entrainment-mixing based on particle-resolved Direct Numerical Simulations, Journal of Geophysical Research: Atmospheres, doi: 10.1029/2025JD044265
