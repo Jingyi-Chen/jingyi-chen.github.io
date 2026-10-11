@@ -24,7 +24,7 @@ I believe that research is about more than *"publish or perish."* Beyond academi
 
 ## Current Group Members
 
-*Numbers in brackets refer to entries on the [Publications](/publications/) page.*
+*Numbers in brackets refer to entries on the [Publications](https://jingyi-chen.github.io/publications/) page.*
 
 ### Ph.D. Students
 
