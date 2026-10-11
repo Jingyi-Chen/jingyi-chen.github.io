@@ -34,6 +34,7 @@ Service
 
 Awards
 ---
+* Outstanding Reviewer for Journal of Geophysical Research: Atmospheres, 2025
 * Outstanding Reviewer Award for Environment Research: Climate, 2025
 * Asia Oceania Geosciences Society (AOGS) Kamide Lecture Award, 2025
 * Outstanding Reviewers for Earth and Space Science, 2024
