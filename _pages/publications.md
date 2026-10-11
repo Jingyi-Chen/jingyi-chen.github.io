@@ -8,6 +8,7 @@ Below, * denotes the corresponding author.
 
 Selected Papers as Lead Author
 ---
+[15] Song, Q., **J. Chen\***, M. Janssens, and C. Lu (2026), Fractal Dimension of shallow cumulus Cloud Boundaries Beyond Bulk Fractal Scaling, Geophysical Research Letters, doi: 10.1029/2026GL123830
 
 [14] Guo, Y., **J. Chen\***, H. Shi, H. Chen, and C. Lu (2026), Disentangling the Effects of Orographic Forcing and Soil Moisture on Shallow Cumulus in a Semi-Arid Grassland, Atmospheric Research, doi: /10.1016/j.atmosres.2026.108905.
 
@@ -42,7 +43,7 @@ Selected Papers as Co-author
 ---
 [19] Liu, D., Chen, Y., Liu, S., Wang, H.\*, **Chen, J.**, Yang, Y., Wang, Z., Cui, K., and Zhao, T.: Regulation of cloud particle spectra and vertical structure by sub-cloud aerosols: insights from aircraft observations and numerical simulations, Atmos. Chem. Phys., 26, 5781–5797, 2026.
 
-[18]Yu, Y., Y. Yang*, H. Wang, L. Russell, P. Wang, J. Jin, **J. Chen**, Y. Yang, W. Xia, H. Liao (2026), Marine cloud brightening mitigates the warming induced by the aerosol reductions toward carbon neutrality, Communications Earth & Environment
+[18]Yu, Y., Y. Yang*, H. Wang, L. Russell, P. Wang, J. Jin, **J. Chen**, Y. Yang, W. Xia, H. Liao (2026), Marine cloud brightening mitigates the warming induced by the aerosol reductions toward carbon neutrality, Communications Earth & Environment, doi: /10.1038/s43247-026-03304-6
 
 [17] Chen, X., S. Luo, Y. Liu, **J. Chen**, T. Zhang, and C. Lu\* (2025), Convergence of cloud droplet spectral relative dispersion during entrainment-mixing based on particle-resolved Direct Numerical Simulations, Journal of Geophysical Research: Atmospheres, doi: 10.1029/2025JD044265
 
