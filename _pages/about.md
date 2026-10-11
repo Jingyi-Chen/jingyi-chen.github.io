@@ -15,6 +15,11 @@ I am focused on addressing several grand challenges related to cloud processes a
 News
 ======
 
+* **2026.09**: Welcome Qingqin Yang, Yuna Tang and Chao Hu to our group!
+<p align="center">
+  <img src="/files/group_photo_2026.jpg" width="400" height="300">
+</p>
+
 * **2026.03**: New paper accepted:
 
 Guo, Y., J. Chen\*, H. Shi, H. Chen, and C. Lu (2026), Disentangling the Effects of Orographic Forcing and Soil Moisture on Shallow Cumulus in a Semi-Arid Grassland, Atmospheric Research, doi: /10.1016/j.atmosres.2026.108905.
