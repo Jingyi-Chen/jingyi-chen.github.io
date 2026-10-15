@@ -28,7 +28,7 @@ Song, Q., J. Chen\*, M. Janssens, and C. Lu (2026), Fractal Dimension of shallow
 
 Guo, Y., J. Chen\*, H. Shi, H. Chen, and C. Lu (2026), Disentangling the Effects of Orographic Forcing and Soil Moisture on Shallow Cumulus in a Semi-Arid Grassland, Atmospheric Research, doi: /10.1016/j.atmosres.2026.108905.
 
-* **2026.02**: New papers accepted,
+* **2026.02**: New papers accepted:
 
 Chen, J.\*, H. Wang\*, B. Zhang, H. Liu, D. Painemal, A. Sorooshian, S. Tai and C. Voigt (2026), Response of marine post-frontal clouds to Gulf Stream variability, Atmospheric Chemistry and Physics, doi: 10.5194/acp-26-2209-2026
 
