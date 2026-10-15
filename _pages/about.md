@@ -15,6 +15,10 @@ I am focused on addressing several grand challenges related to cloud processes a
 News
 ======
 
+* **2026.10**: New paper accepted:
+
+Song, Q., J. Chen\*, M. Janssens, and C. Lu (2026), Fractal Dimension of shallow cumulus Cloud Boundaries Beyond Bulk Fractal Scaling, Geophysical Research Letters, doi: /10.1029/2026GL123830
+
 * **2026.09**: Welcome Qingqin Yang, Yuna Tang and Chao Hu to our group!
 <p align="center">
   <img src="/files/group_photo_2026.jpg" width="400" height="300">
